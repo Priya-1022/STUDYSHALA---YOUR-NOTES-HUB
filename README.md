@@ -39,4 +39,3 @@ The objectives of StudyShala are designed to revolutionize the educational exper
 - **Frontend**: HTML, CSS, JavaScript
 - **Version Control**: Git
 
-- 
